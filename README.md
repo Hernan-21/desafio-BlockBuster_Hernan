@@ -3,7 +3,7 @@
 https://blockbuster.fly.dev/
 
 
-
+<img width="1591" alt="Captura de pantalla 2024-08-20 a la(s) 13 11 05" src="app/assets/images/descktop-app.png">
 
 
 This README would normally document whatever steps are necessary to get the
