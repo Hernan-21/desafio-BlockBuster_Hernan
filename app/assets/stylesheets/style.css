@@ -1,0 +1,90 @@
+*{
+  background-color: #000;
+}
+
+h1 {
+  color: #343a40; /* Color oscuro */
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+}
+
+/* Estilo para los enlaces */
+a.btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  text-transform: uppercase;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+a.btn-primary:hover {
+  background-color: #0056b3;
+  border-color: #0056b3;
+  color: #fff;
+}
+
+/* Estilo para la tabla */
+.table {
+  margin-top: 20px;
+  background-color: #ffffff;
+  border: 1px solid #dee2e6;
+}
+
+.table th {
+  background-color: #343a40;
+  color: #ffffff;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.table td {
+  vertical-align: middle;
+}
+
+/* Estilo para los botones de acción */
+.btn {
+  font-size: 0.9rem;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+.btn-warning {
+  background-color: #ffc107;
+  border-color: #ffc107;
+  color: #000;
+}
+
+.btn-danger {
+  background-color: #dc3545;
+  border-color: #dc3545;
+  color: #fff;
+}
+
+.btn-info {
+  background-color: #17a2b8;
+  border-color: #17a2b8;
+  color: #fff;
+}
+
+/* Estilo para los avisos */
+.text-success {
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+
+/* Sombras para elementos */
+.shadow-sm {
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+}
+
+/* Badges para destacar el contenido */
+.badge-info {
+  background-color: #17a2b8;
+  color: #fff;
+  font-size: 0.85rem;
+  padding: 5px 10px;
+  border-radius: 10px;
+}
